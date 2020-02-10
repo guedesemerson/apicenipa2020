@@ -25,7 +25,7 @@ SECRET_KEY = '1l)flai2fi(c(6+b^!c-t29cho-)xq%__!d=+aw5c&h0pptdij'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['apicenipa2020.herokuapp.com','127.0.0.1']
 
 
 # Application definition

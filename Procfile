@@ -1,0 +1,1 @@
+web: gunicorn apicenipa2020.wsgi --log-file -
