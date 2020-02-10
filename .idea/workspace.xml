@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f41eed97-bc6e-4381-9d6c-eb4805016bae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apicenipa2020/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/apicenipa2020/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -5,6 +5,7 @@ chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
 dataclasses==0.7
+dj-static==0.0.6
 Django==2.2.10
 django-cors-headers==3.2.1
 django-filter==2.2.0
@@ -27,5 +28,6 @@ ruamel.yaml==0.16.7
 ruamel.yaml.clib==0.2.0
 six==1.14.0
 sqlparse==0.2.4
+static3==0.7.0
 uritemplate==3.0.1
 urllib3==1.25.8
