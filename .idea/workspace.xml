@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41eed97-bc6e-4381-9d6c-eb4805016bae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apicenipa2020/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/apicenipa2020/settings.py" afterDir="false" />
     </list>
@@ -67,6 +64,9 @@
       <updated>1581183853272</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581293584066">
