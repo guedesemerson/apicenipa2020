@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.conf.urls import  include
 from django.urls import path
 from rest_framework import routers
+from rest_framework.authtoken.views import obtain_auth_token
 from aeronaves.views import ArenovaesViewsets
 from fator.views import FatorViewset
 from ocorrencias.views import OcorrenciaViewSet
@@ -48,4 +49,5 @@ urlpatterns = [
     path('api/', include(router.urls)),
     path('admin/', admin.site.urls),
     path('', schema_view.with_ui('redoc', cache_timeout=0), name='schema-swagger-ui'),
+    path('auth/', obtain_auth_token),
 ]
