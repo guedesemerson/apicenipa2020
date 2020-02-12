@@ -4,12 +4,6 @@
 Api que tem como fundamento, estruturar os dados tabulados fornecidos abertamente pelo CENIPA, com o objetivo de facilitar as integrações, consultas e pesquisas. 
 
 <h1 align="center">
-  <img src="./main.PNG" alt="Main" width="700">
-<br>
-Tela principal
-</h1>
-
-<h1 align="center">
   <img src="./imagens/principal.png" alt="Main" width="700">
 <br>
 Principal
