@@ -6,7 +6,6 @@ Api que tem como fundamento, estruturar os dados tabulados fornecidos abertament
 <h1 align="center">
   <img src="./imagens/principal.png" alt="Main" width="700">
 <br>
-Principal
 </h1>
 
 <h1 align="center">
@@ -17,7 +16,6 @@ Principal
 <h1 align="center">
   <img src="./imagens/tabelas.png" alt="Tables" width="700">
 <br>
-Tabelas
 </h1>
 
 #### 1. acesso a api: https://apicenipa2020.herokuapp.com
